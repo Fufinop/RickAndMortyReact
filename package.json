@@ -2,7 +2,7 @@
 	"name": "RickAndMortyReact",
 	"private": true,
 	"version": "0.0.0",
-	"homepage": "https://fufinop.github.io/RickAndMorty_React",
+	"homepage": "https://ernestodelarosa.me/RickAndMortyReact",
 	"type": "module",
 	"scripts": {
 		"dev": "vite",
@@ -12,7 +12,7 @@
 		"lint": "eslint . --ext .ts,.tsx,.js,jsx",
 		"lint:fix": "eslint . --ext .ts,.tsx,.js,jsx --fix",
 		"predeploy": "npm run build",
-		"deploy": "gh-pages -d build"
+		"deploy": "gh-pages -d dist"
 	},
 	"dependencies": {
 		"eslint-config-prettier": "^8.6.0",
