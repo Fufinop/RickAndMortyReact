@@ -10,7 +10,7 @@
     Small application that adds a rick and morty rest api, this one presents all the characters of the series and some extra data.
     <br />
     <br />
-    <a href="https://ernestodelarosa.me/RickAndMortyReact/">View Demo</a>
+    <a href="https://fufinop.github.io/RickAndMortyReact/">View Demo</a>
     ·
     <a href="https://github.com/Fufinop/RickAndMortyReact/issues">Report Bug</a>
   </p>
